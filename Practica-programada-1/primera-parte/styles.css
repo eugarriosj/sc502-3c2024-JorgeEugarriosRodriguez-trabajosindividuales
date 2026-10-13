@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaf2f8;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: #245477;
+}
+
+form {
+    background-color: white;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+label {
+    display: block;
+    margin-top: 12px;
+}
+
+input:not([type="radio"]):not([type="checkbox"]),
+select {
+    width: 100%;
+    padding: 9px;
+    margin-top: 5px;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.opcion {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.opcion input {
+    width: auto;
+}
+
+button {
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #245477;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #16364e;
+}
+
+@media (max-width: 500px) {
+    body {
+        padding: 15px;
+    }
+}
