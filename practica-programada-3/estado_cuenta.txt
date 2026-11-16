@@ -1,0 +1,35 @@
+========================================
+          ESTADO DE CUENTA
+========================================
+
+DETALLE DE TRANSACCIONES
+----------------------------------------
+ID: 1
+Descripcion: Compra en supermercado
+Monto: ₡25,000.00
+----------------------------------------
+ID: 2
+Descripcion: Compra de gasolina
+Monto: ₡18,000.00
+----------------------------------------
+ID: 3
+Descripcion: Compra de ropa
+Monto: ₡35,000.00
+----------------------------------------
+ID: 4
+Descripcion: Suscripcion a servicios
+Monto: ₡8,000.00
+----------------------------------------
+ID: 5
+Descripcion: Compra en restaurante
+Monto: ₡12,000.00
+----------------------------------------
+
+RESUMEN DE CUENTA
+Total de contado: ₡98,000.00
+Interes (2.6%): ₡2,548.00
+Total con interes: ₡100,548.00
+Cashback (0.1%): ₡98.00
+----------------------------------------
+TOTAL A PAGAR: ₡100,450.00
+========================================
